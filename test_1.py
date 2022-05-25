@@ -5,6 +5,7 @@ import pytest
 def test_get_info(login, n):
     token = login
     print("***基础用例：获取用户个人信息***", n)
+    print("***基础用例：获取用户个人信息***", n)
     print(f"token:{token}")
 
 
